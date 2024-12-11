@@ -1,0 +1,46 @@
+form{
+    
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    width: 100%;
+    max-width: 400px;
+    border-radius: 20px;
+    border: 1px solid rgb(0, 0, 0);
+    margin-top: 40px;
+    padding: 10px;
+    background-color: rgb(236, 237, 255);
+    
+}
+
+label{
+    color:rgb(53, 74, 196);
+}
+
+a{
+    margin: 20px;
+    text-decoration: none;
+    color: blueviolet;
+}
+
+a:hover{
+    color: rgb(30, 0, 59);
+}
+
+button{
+    border-radius: 10%;
+    background-color: blueviolet;
+    color: white;
+    border: solid 1px blueviolet;
+}
+
+button:hover{
+    
+    background-color: rgb(3, 27, 73);
+    border: solid 1px black;
+}
+
+h2{
+    color: blueviolet;
+}
+

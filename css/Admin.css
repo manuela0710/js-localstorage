@@ -1,0 +1,46 @@
+ body{
+    margin: 20px;
+    padding: 10px;
+    overflow: hidden;
+    background-color: rgb(244, 237, 250);
+}
+
+
+#newUserModalLabel{
+    color: rgb(0, 0, 0);
+ 
+}
+#newUserModalLabel:hover{
+    color: blueviolet;
+}
+
+
+
+#bienvenido{
+    color: rgb(0, 0, 0);
+}
+
+#bienvenido:hover{
+    color: blueviolet;
+}
+
+.boton{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 8%;
+    border: solid 1px blueviolet;
+}
+
+.boton:hover{
+    background-color: rgb(20, 20, 20);
+    color: white;
+}
+
+.botoon{
+    background-color: rgb(166, 251, 166);
+    color: white;
+    border-radius: 8%;
+    border: solid 1px blueviolet;
+}
+
+
